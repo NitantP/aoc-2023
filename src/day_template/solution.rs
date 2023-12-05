@@ -1,9 +1,11 @@
 // https://adventofcode.com/2023/day/CHANGEME
 
-fn solve_part_1(input: &str) {
+fn solve_part_1(input: &str) -> u64 {
+    todo!();
 }
 
-fn solve_part_2(input: &str) {
+fn solve_part_2(input: &str) -> u64 {
+    todo!();
 }
 
 pub fn answers() {
