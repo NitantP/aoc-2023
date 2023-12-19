@@ -16,6 +16,7 @@ mod day_13;
 
 mod day_15;
 mod day_16;
+mod day_17;
 
 fn main() {
     // day_1::solution::answers();
@@ -33,5 +34,6 @@ fn main() {
     // day_13::solution::answers();
 
     // day_15::solution::answers();
-    day_16::solution::answers();
+    // day_16::solution::answers();
+    day_17::solution::answers();
 }
